@@ -1,28 +1,23 @@
 # config pass
 .env
 
-
-
 # python
 .venv/
 .ipynb_checkpoints/
 __pycache__/
 
-
+# data
+data/raw/
+data/output/
 
 # fichiers temporaires
 cache
 *.temp
 
-
-
 # backups / sauvegardes / archives
 *.bak
 *.zip
 
-
-
 #fichiers windows
 Thumbs.db
 desktop.ini
-

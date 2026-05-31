@@ -1,0 +1,28 @@
+# config pass
+.env
+
+
+
+# python
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+
+
+# fichiers temporaires
+cache
+*.temp
+
+
+
+# backups / sauvegardes / archives
+*.bak
+*.zip
+
+
+
+#fichiers windows
+Thumbs.db
+desktop.ini
+

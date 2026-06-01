@@ -9,6 +9,7 @@ __pycache__/
 # data
 data/raw/
 data/output/
+personal_docs
 
 # fichiers temporaires
 cache
